@@ -1,4 +1,4 @@
-# **Pawn: Chessify Your Life**
+# **Pawn**
 
 ## **Overview**
 **Real life is chess.** In chess, you master the game by foreseeing **dozens of moves ahead**—now, with **Pawn**, you can **Chessify your life**. They say life is too complex to be reduced to a game of chess. **I’m here to prove them wrong.**
